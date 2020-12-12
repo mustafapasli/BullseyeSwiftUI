@@ -13,6 +13,7 @@
 		57269066257C01C800E2CAD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57269065257C01C800E2CAD1 /* Assets.xcassets */; };
 		57269069257C01C800E2CAD1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57269068257C01C800E2CAD1 /* Preview Assets.xcassets */; };
 		5726906C257C01C800E2CAD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5726906A257C01C800E2CAD1 /* LaunchScreen.storyboard */; };
+		573E910725855A870060D61A /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 573E910625855A870060D61A /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		57269068257C01C800E2CAD1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5726906B257C01C800E2CAD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5726906D257C01C800E2CAD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		573E910625855A870060D61A /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5726905F257C01C400E2CAD1 /* AppDelegate.swift */,
 				57269061257C01C400E2CAD1 /* SceneDelegate.swift */,
 				57269063257C01C400E2CAD1 /* ContentView.swift */,
+				573E910625855A870060D61A /* AboutView.swift */,
 				57269065257C01C800E2CAD1 /* Assets.xcassets */,
 				5726906A257C01C800E2CAD1 /* LaunchScreen.storyboard */,
 				5726906D257C01C800E2CAD1 /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				573E910725855A870060D61A /* AboutView.swift in Sources */,
 				57269060257C01C400E2CAD1 /* AppDelegate.swift in Sources */,
 				57269062257C01C400E2CAD1 /* SceneDelegate.swift in Sources */,
 				57269064257C01C400E2CAD1 /* ContentView.swift in Sources */,
